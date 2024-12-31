@@ -13,7 +13,9 @@ class MyApp extends StatelessWidget {
       title: 'OnBoarding',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Color(0xFF7357a4),
+        ),
         useMaterial3: true,
       ),
     );
