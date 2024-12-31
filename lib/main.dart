@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'view/onboarding_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,11 +14,13 @@ class MyApp extends StatelessWidget {
       title: 'OnBoarding',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+        scaffoldBackgroundColor: Colors.white,
         colorScheme: ColorScheme.fromSeed(
           seedColor: Color(0xFF7357a4),
         ),
         useMaterial3: true,
       ),
+      home: OnboardingView(),
     );
   }
 }

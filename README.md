@@ -17,3 +17,9 @@ Package two: shared_preferences
 Add media to the project.
 
 Add color seed.
+
+### Step two
+
+Create onboarding view.
+
+Create onboarcing UI.
