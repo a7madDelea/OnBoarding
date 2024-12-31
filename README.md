@@ -23,3 +23,10 @@ Add color seed.
 Create onboarding view.
 
 Create onboarcing UI.
+
+### Step three
+
+Create onboarding model.
+
+Add onboarding data.
+
