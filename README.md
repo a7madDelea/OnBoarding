@@ -30,3 +30,8 @@ Create onboarding model.
 
 Add onboarding data.
 
+### Step four
+
+Create home view.
+
+Activate buttons.
