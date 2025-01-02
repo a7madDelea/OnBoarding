@@ -14,6 +14,8 @@ Package one: smooth_page_indicator
 
 Package two: shared_preferences
 
+Package three: flutter_phoenix
+
 Add media to the project.
 
 Add color seed.
@@ -35,3 +37,13 @@ Add onboarding data.
 Create home view.
 
 Activate buttons.
+
+### Step five
+
+Refactor code.
+
+Store application state in a variable.
+
+Activate the restart button.
+
+#### Done! 😁💕

@@ -1,7 +1,7 @@
 import '../models/onboarding_model.dart';
 
 class OnboardingData {
-  List<OnboardingModel> itemsData = [
+  List<OnboardingModel> itemsData = const [
     OnboardingModel(
       title: 'Laboratory',
       description:
